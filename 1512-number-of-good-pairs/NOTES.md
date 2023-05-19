@@ -1,0 +1,1 @@
+for each number appearing n times, n * (n – 1) // 2 good pairs can be made
