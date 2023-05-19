@@ -1,0 +1,1 @@
+Thinking two methods, multiple if elif statements or using a dict.
